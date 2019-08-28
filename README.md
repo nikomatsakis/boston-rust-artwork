@@ -13,9 +13,9 @@ with a [CC license][cc].
 
 ### Just Rust
 
-![Rust Citgo Sign](./Boston Rust Logo.jpg)
+<img src="./Boston%20Rust%20Logo.jpg" width=640/>
 
 ### Illuminati-like version
 
-![Rust Citgo Sign](./Boston Rust Logo Illuminati.jpg)
+<img src="./Boston%20Rust%20Logo%20Illuminati.jpg" width=640/>
 
