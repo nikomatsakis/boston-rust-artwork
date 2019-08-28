@@ -7,3 +7,4 @@ with a [CC license][cc].
 
 [flickr]: https://www.flickr.com/photos/jeffreycrow/2538688205/
 [cc]: https://creativecommons.org/licenses/by-nc-sa/2.0/
+[Boston Citgo Sign]: https://en.wikipedia.org/wiki/Boston_Citgo_sign
